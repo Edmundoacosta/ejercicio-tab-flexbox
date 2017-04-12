@@ -1,5 +1,4 @@
 $(document).ready(function(){
-	function change(){
 		$('.tabs').find('li').click(function(){
 			$('.tabs').find('li').removeClass('borde-btm');
 			$(this).addClass('borde-btm');
@@ -12,7 +11,4 @@ $(document).ready(function(){
 			$('.tabs3').find('li').removeClass('borde-btm');
 			$(this).addClass('borde-btm');
 		});
-	}
-
-	change();
 });
