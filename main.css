@@ -39,9 +39,6 @@
 	font-family: 'Roboto', sans-serif;
 }
 
-.tabs li:first-child, .tabs2 li:first-child, .tabs3 li:first-child {
-	border-bottom: 3px solid #4EBBE4;
-}
 
 .borde-btm {
 	border-bottom: 3px solid #4EBBE4;
